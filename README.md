@@ -1,4 +1,4 @@
-# newapp
+# Currency_Classifier
 
 A new Flutter project.
 
