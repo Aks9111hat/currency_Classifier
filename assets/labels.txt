@@ -1,6 +1,6 @@
-0 10
-1 20
-2 100
-3 200
-4 500
-5 2000
+ 10 Rupees
+ 20 Rupees
+ 100 Rupees
+ 200 Rupees
+ 500 Rupees
+ 2000 Rupees

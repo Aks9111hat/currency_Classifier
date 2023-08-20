@@ -1,6 +1,6 @@
 {
-    "name": "newapp",
-    "short_name": "newapp",
+    "name": "currency_classifier",
+    "short_name": "currency_classifier",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
